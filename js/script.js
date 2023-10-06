@@ -23,4 +23,5 @@ let colore = prompt('Dimmi il tuo colore preferito');
  console.log(nome);
 
  document.getElementById('text').innerHTML = password;
+ 
  console.log( document.getElementById('text').innerHTML) = password;
