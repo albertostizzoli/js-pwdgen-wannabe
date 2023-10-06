@@ -18,7 +18,7 @@ let colore = prompt('Dimmi il tuo colore preferito');
 
 //Password
 
- let password = ` ${nome} + ${cognome} + ${colore} + ${age}`;
+ let password = `${nome} + ${cognome} + ${colore} + ${age}`;
  
  console.log(nome);
  console.log(cognome);
