@@ -1,3 +1,11 @@
+body{
+    background-image: linear-gradient(to bottom right, yellow, orange, red);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
 #text{
-    color: black;
+    color: red;
+    display: flex;
+    justify-content: center;
 }
